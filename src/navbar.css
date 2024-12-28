@@ -1,0 +1,17 @@
+.navbar_head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: auto;
+    padding: 1rem;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-color: #fff;
+   
+}
+
+.navbar_head img {
+    height: 40px;
+    width: auto;
+
+}
